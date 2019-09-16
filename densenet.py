@@ -1,8 +1,4 @@
-# Brief:     Build densnet graph
-# Data:      28/Aug./2017
-# E-mail:    huyixuanhyx@gmail.com
-# License:   Apache 2.0
-# By:        Yeephycho @ Hong Kong
+
 
 from __future__ import absolute_import
 from __future__ import division
