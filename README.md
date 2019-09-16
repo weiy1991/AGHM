@@ -11,8 +11,6 @@ The detalied architecture of the AGHM is as following:
 ![ICRA2020](./images/AGHM.jpg)
 
 
-
-
 ### Dependencies
 This requires:
 
@@ -23,8 +21,8 @@ This requires:
 Here, I use python3.6 with anaconda3. You can configure your own python environment as you want.
 
 
-### Related Work
+<!-- ### Related Work
 
 * [ResNet50-Tensorflow](https://github.com/piyush2896/ResNet50-Tensorflow)
 * [DenseNet-Tensorflow](https://github.com/yeephycho/densenet-tensorflow)
-* [GoogLeNet-Tensorflow](https://github.com/da-steve101/googlenet)
+* [GoogLeNet-Tensorflow](https://github.com/da-steve101/googlenet) -->
